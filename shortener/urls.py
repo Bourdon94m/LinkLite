@@ -18,6 +18,8 @@ from django.contrib import admin
 from django.urls import path
 from . import views
 
+app_name = 'shortner'
 urlpatterns = [
-    path('', views.indexPage)
+    path('', views.home, name='home'),
+    path('<str:short_code>/', views.redirect_to_original, name='redirect'),
 ]
