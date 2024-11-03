@@ -23,7 +23,7 @@ LinkLite est un raccourcisseur d'URL moderne et élégant construit avec Django 
 
 1. Clonez le repository
 ```bash
-git clone https://github.com/votre-username/LinkLite.git
+git clone https://github.com/Bourdon94m/LinkLite.git
 cd LinkLite
 ```
 
