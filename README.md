@@ -2,7 +2,8 @@
 
 LinkLite est un raccourcisseur d'URL moderne et élégant construit avec Django et TailwindCSS. Cette application permet de transformer facilement de longs liens en URLs courtes et traçables.
 
-https://github.com/user-attachments/assets/d969d353-5372-4d11-94da-64e0bad19f96
+![LinkLite](https://github.com/user-attachments/assets/703e6374-1334-467d-b094-aa9815d8021a)
+
 
 ## ✨ Fonctionnalités
 
