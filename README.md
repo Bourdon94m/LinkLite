@@ -14,8 +14,8 @@ https://github.com/user-attachments/assets/d969d353-5372-4d11-94da-64e0bad19f96
 
 ## 🚀 Technologies Utilisées
 
-- **Backend**: Django 5.0
-- **Frontend**: TailwindCSS 3.0
+- **Backend**: Django 3.1
+- **Frontend**: TailwindCSS 3.8.0
 - **Package**: django-tailwind
 
 ## 🛠 Installation
@@ -53,14 +53,14 @@ python manage.py tailwind build
 python manage.py runserver
 ```
 
-## 🌐 Utilisation
+🌐 Utilisation
 
 Accédez à http://localhost:8000
 Collez votre URL longue dans le champ
 Cliquez sur "Raccourcir"
 Copiez et partagez votre lien court !
 
-## 📊 Statistiques Disponibles
+📊 Statistiques Disponibles
 
 Nombre total de liens créés
 Nombre total de clics
@@ -75,10 +75,10 @@ Commit vos changements (git commit -m 'Add some AmazingFeature')
 Push sur la branche (git push origin feature/AmazingFeature)
 Ouvrir une Pull Request
 
-## 📝 Licence
+📝 Licence
 Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
 
-## 👏 Remerciements
+👏 Remerciements
 
 Django pour le framework backend
 TailwindCSS pour le framework CSS
